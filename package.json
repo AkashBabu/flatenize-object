@@ -1,6 +1,6 @@
 {
-  "name": "flatenize-object",
-  "version": "1.0.0",
+  "name": "flattenize-object",
+  "version": "1.1.0",
   "description": "Library to flatenize an object within another object",
   "main": "index.js",
   "scripts": {

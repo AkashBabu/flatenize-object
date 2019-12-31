@@ -1,4 +1,5 @@
 
+# Deprecated in favor of [flat](https://www.npmjs.com/package/flat)
 
 
 
@@ -6,8 +7,7 @@
 
 
 
-
-# flatenize-object
+# flattenize-object
 
 A Nodejs Library to flattenize an object within another object
 
